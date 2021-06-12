@@ -7,7 +7,7 @@ In this project we will use R to conduct statistical analysis to help AutoRUs’
 -	Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
 -	Run t-tests to determine if the manufacturing lots are statistically different from the mean population
 -	Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. 
--	
+
 ## Linear Regression to Predict MPG
 
 In this linear regression model, used all six variables from the data to predict the mpg of MechaCar prototypes. 
